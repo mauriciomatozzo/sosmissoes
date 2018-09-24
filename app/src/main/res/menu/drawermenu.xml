@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    /*Menu Drawer*/
+    <item android:id="@+id/da" android:title="Área Restrita" android:icon="@drawable/ic_hand"/>
+    <item android:id="@+id/db" android:title="Fazer Doação" android:icon="@drawable/ic_planet_earth"/>
+    <item android:id="@+id/dc" android:title="Home" android:icon="@drawable/ic_contract"/>
+    <item android:id="@+id/dd" android:title="O Projeto" android:icon="@drawable/ic_light_bulb"/>
+    <item android:id="@+id/de" android:title="Entidades" android:icon="@drawable/ic_atom"/>
+    <item android:id="@+id/df" android:title="Faq" android:icon="@drawable/ic_research"/>
+    <item android:id="@+id/dg" android:title="Contato" android:icon="@drawable/ic_wrench"/>
+
+</menu>
